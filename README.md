@@ -1,4 +1,4 @@
-# Nked Hedphones
+# Nked Hedphones 🎧
 
 ## Purpose
 A personal project to build a set of open sourced bluetooth headphones to better understand 
@@ -12,5 +12,5 @@ the intricacies of an everyday device used by millions around the world.
 
 ## References
 
-C++ Libraries and examples provided by [Tim Tierney] (https://github.com/tierneytim/btAudio/tree/master)
+C++ Libraries and examples provided by [Tim Tierney](https://github.com/tierneytim/btAudio/tree/master)
 have been used as a reference point.
